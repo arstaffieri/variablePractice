@@ -5,3 +5,7 @@ var favoriteColor = "Blue"
 var age = 38
 var pets = 3
 var siblings = 1
+
+var havingFun = true
+var sleepy = true
+var hungry = false
