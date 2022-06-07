@@ -9,3 +9,7 @@ var siblings = 1
 var havingFun = true
 var sleepy = true
 var hungry = false
+
+name = "Lancelot"
+quest = "Find Guninvere"
+favoriteColor = "Silver"
